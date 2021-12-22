@@ -8,7 +8,9 @@ we enter the level. For now this model will only work on ACT 1 due to the linear
 The design I will be using is a supervised learning approach using a CNN to try and predict the angle I should be currently traveling in.
 
 ## Train Data
-To collect the data for this project it will be done with take screenshots every 25 seconds then logging the d
+To collect the data for this project it will be done with take screenshots every 25 seconds then manually labeling the angle that needs to be traveld in.
+
+![alt text](.png)
 
 ## Model
 
