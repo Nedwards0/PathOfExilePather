@@ -13,7 +13,7 @@ The design I will be using is a supervised learning approach using a CNN to try 
 To collect the data for this project it will be done by taking screenshots every 25 seconds then manually labeling the angle that needs to be traveled in the data collected from various top racers in the community.
 
 An example input into for the model would a image such as 
-![alt text](Data/Run_2/33.png)
+![alt text](Data/Run_2/033.png)
 The model then should attempt to classify an angle to travel in. For the labeling of the data this was done manually.
 
 ## Model
